@@ -1,0 +1,3 @@
+2026-02-19 16:24:53 [INFO] com.revhire.revhire.service.implementation.UserServiceImpl - Login attempt for email: jb@gmail.com
+2026-02-19 16:59:42 [INFO] com.revhire.revhire.service.implementation.UserServiceImpl - Login attempt for email: jb1@gmail.com
+2026-02-19 16:59:42 [INFO] com.revhire.revhire.service.implementation.UserServiceImpl - TEST LOG MESSAGE
